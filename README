@@ -1,0 +1,14 @@
+Note for people from 2011: I don't remember very well the completeness
+or the quality of this implementaiton. I'm lately trying to put on github
+everything I coded in the past but I can no longer find in my HD.
+When I find something on the internet that is possibly something I could reuse
+or have fun reading the source in 20 years, I put it on github.
+
+Salvatore
+
+---
+
+tclsbignum - A bignums library for Tcl
+
+Copyright(C) 2003 Salvatore Sanfilippo
+All rights reserved
